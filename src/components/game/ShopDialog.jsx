@@ -250,7 +250,7 @@ export default function ShopDialog({ open, onClose, coins, playerLevel, currentD
 
   return (
     <Dialog open={open} onOpenChange={onClose}>
-      <DialogContent className="max-w-4xl max-h-[80vh] overflow-y-auto">
+      <DialogContent className="max-w-4xl max-h-[80vh] overflow-y-auto bg-white">
         <DialogHeader>
           <DialogTitle className="flex items-center gap-2 text-2xl">
             <span className="text-3xl">🏪</span>
