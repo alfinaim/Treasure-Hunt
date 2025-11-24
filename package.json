@@ -2,7 +2,7 @@
   "name": "treasure",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alfinaim.github.io/Treasure-Hunt/beach",
+  "homepage": "https://alfinaim.github.io/Treasure-Hunt",
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.15",
     "@radix-ui/react-progress": "^1.1.8",
